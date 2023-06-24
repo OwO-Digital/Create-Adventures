@@ -1,0 +1,16 @@
+name = "Create: Adventures"
+author = "Aproxia, Octelly, Kaytwastaken"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "510fb35f781f1caf6574a8af4ee015dbaa0ce8bc0188217e0450c2316259a0c9"
+
+[versions]
+minecraft = "1.19.2"
+quilt = "0.19.1"
+
+[options]
+acceptable-game-versions = ["1.19", "1.19.2"]

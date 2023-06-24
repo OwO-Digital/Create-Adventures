@@ -1,0 +1,13 @@
+name = "Sakura Blossoms"
+filename = "sakurablossoms-1.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/KRmOkLEo/versions/1.0.2/sakurablossoms-1.0.2.jar"
+hash-format = "sha1"
+hash = "189e3ba504ad3ca80a9b1c4776dd51b7ebf50bcc"
+
+[update]
+[update.modrinth]
+mod-id = "KRmOkLEo"
+version = "FrzbnNKy"
