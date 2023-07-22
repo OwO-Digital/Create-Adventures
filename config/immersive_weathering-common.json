@@ -45,7 +45,7 @@
     "piston_sliming": true,
     "soil_shearing": true,
     "grass_flinting": true,
-    "azalea_shearing": true,
+    "azalea_shearing": false,
     "moss_shearing": true,
     "moss_burning": true,
     "charred_block_igniting": true,
