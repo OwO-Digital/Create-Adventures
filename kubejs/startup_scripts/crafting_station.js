@@ -14,6 +14,7 @@ StartupEvents.registry('block', event => {
 })
 
 StartupEvents.registry('item', event => {
-	event.custom('crafting_station', new BlockItem(CraftingStation.get(), new ItemProperties()))
+  event.createCustom('crafting_station', () => new BlockItem(CraftingStation.get(), new ItemProperties()))
+
 })
 

@@ -1,15 +1,19 @@
-const colorful_azalea_logs = [
-  "tecal_azalea_log",
-  "fiss_azalea_log",
-  "roze_azalea_log",
-  "azule_azalea_log",
-  "bright_azalea_log",
-  "walnut_azalea_log",
-  "titanium_azalea_log",
+const colorful_azalea_wood = [
+  "tecal_azalea",
+  "fiss_azalea",
+  "roze_azalea",
+  "azule_azalea",
+  "bright_azalea",
+  "walnut_azalea",
+  "titanium_azalea",
 ]
 
 ServerEvents.recipes(event => {
-  colorful_azalea_logs.forEach(log => {
-    event.recipes.create.cutting('colorfulazaleas:stripped_' + log, 'colorfulazaleas:' + log)
+  colorful_azalea_wood.forEach(type => {
+    event.recipes.create.cutting('colorfulazaleas:stripped_' + type + '_log', 'colorfulazaleas:' + type + '_log')
+    event.recipes.create.cutting('colorfulazaleas:stripped_' + type + '_wood', 'colorfulazaleas:' + type + '_wood')
+    
+    event.recipes.create.cutting(Item.of('colorfulazaleas:' + type + '_planks', 6), 'colorfulazaleas:stripped_' + type + '_log')
+    event.recipes.create.cutting(Item.of('colorfulazaleas:' + type + '_planks', 6), 'colorfulazaleas:stripped_' + type + '_wood')
   })
 })

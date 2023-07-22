@@ -209,10 +209,6 @@ file = "kubejs/assets/supplementaries/lang/en_us.json"
 hash = "b5fd04b98ba519274db2f0cc42f85bd876687b7d63b6f11d693c2ca8f921f3bc"
 
 [[files]]
-file = "kubejs/client_scripts/script.js"
-hash = "f6c034f5a6925b0ed2647e90c3d2597e04d5b0b4a21106fd629a8efbf7b60b11"
-
-[[files]]
 file = "kubejs/config/client.properties"
 hash = "0c57a259ebf38deb3c8f799446dfe80638318684c5a4b1b2aa5ed5a2af2ea20d"
 
@@ -666,7 +662,7 @@ hash = "9ce00390f24385fa7fcc10a94580c460039cb693af923c967ed8be3d9f42f585"
 
 [[files]]
 file = "kubejs/startup_scripts/crafting_station.js"
-hash = "1396d93737a1953bcb7d9479884ce0bd617bc86dd5e298567470a5a9a367d1e9"
+hash = "dfbd80cd5f29888735afe4c4b734d618f528f8a7daffca350904c36846c4eb59"
 
 [[files]]
 file = "kubejs/startup_scripts/fluids.js"
@@ -676,6 +672,14 @@ hash = "b3acd4be677182d8fb01142833f60c36fd57032a75abce9ec497024062e8b8ff"
 file = "mods/3dskinlayers.pw.toml"
 hash = "fbad3ce2bcab1b8a73a541000100dc5ed3323bcf571e4e2a4a3c28db5c520509"
 metafile = true
+
+[[files]]
+file = "mods/Decorative Blocks-fabric-1.19.2-3.0.0.jar"
+hash = "cac2f9fb6574c5b12a12ee6776274aae8fbd8ca2598c245aed5ef8793363dcf3"
+
+[[files]]
+file = "mods/Trowel-1.1.0.jar"
+hash = "248467f8b5eff6c62b8849283f35e42634f212b46b2a62c93be1f47035f9560c"
 
 [[files]]
 file = "mods/affectionate.pw.toml"
@@ -979,7 +983,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "0692059aa9d74400804eaa6030158a251296b280b91a82eb55757c2f2ccf8972"
+hash = "75ea259d1fb9b5eafb492fc393191be53fc7d548ebc497350f296cd7257079f0"
 metafile = true
 
 [[files]]
@@ -1004,12 +1008,12 @@ metafile = true
 
 [[files]]
 file = "mods/estrogen.pw.toml"
-hash = "c84f3b44a2d3f20dee29e81089b9d3b0cab6111667b7a6025641f66f49c20a44"
+hash = "0ced2d7f1b44c3c8c81d38754f64a0070ef0f60d7b2e47672fe0ce01ccf5a228"
 metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "1d99e516e06ee6620a48a2b4bc45de8918deb27affc404786005a9a0a5ed6406"
+hash = "7282383f8bf77a7025f678353251856cc1d1999a72f7fe4ce5835a670dbbae76"
 metafile = true
 
 [[files]]
@@ -1020,11 +1024,6 @@ metafile = true
 [[files]]
 file = "mods/extrasounds.pw.toml"
 hash = "2e871ee3068cfb44e799d244f4e586e6f32e5708b16a6832939c3c4f01d91170"
-metafile = true
-
-[[files]]
-file = "mods/fabric-language-kotlin.pw.toml"
-hash = "b2b0ad206637c53e64311185758dd34cb1871890e9b70e843eee5c4d085426be"
 metafile = true
 
 [[files]]
@@ -1184,7 +1183,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "86bdf3e7c87946fad718883449651e7606fba0d0fa173eb32b3d985e2a2cd8d5"
+hash = "3e4fe0bb6818e59ae0d8dff4cc58ab8b9bd8eef76c1a60fadc3a2a3fcb7d7036"
 metafile = true
 
 [[files]]
@@ -1535,11 +1534,6 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
-metafile = true
-
-[[files]]
-file = "mods/trowel.pw.toml"
-hash = "cb99412efeb4fce6a4343e4bb01a953728a171f0f6e3a3821395e8afa51e6d5a"
 metafile = true
 
 [[files]]
