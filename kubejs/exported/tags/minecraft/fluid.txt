@@ -1,0 +1,66 @@
+To refresh this file, delete it and run /reload command again! Last updated: Jun 25, 2023, 8:35:30 PM
+
+#minecraft:water
+- minecraft:water (from Default)
+- minecraft:flowing_water (from Default)
+- estrogen:testosterone_mixture (from Estrogen)
+- estrogen:flowing_testosterone_mixture (from Estrogen)
+- estrogen:liquid_estrogen (from Estrogen)
+- estrogen:flowing_liquid_estrogen (from Estrogen)
+- estrogen:horse_urine (from Estrogen)
+- estrogen:flowing_horse_urine (from Estrogen)
+- estrogen:filtrated_horse_urine (from Estrogen)
+- estrogen:flowing_filtrated_horse_urine (from Estrogen)
+- milk:flowing_milk? (from Milk Lib)
+- milk:still_milk? (from Milk Lib)
+- create:flowing_honey (from Create)
+- create:honey (from Create)
+- create:flowing_chocolate (from Create)
+- create:chocolate (from Create)
+
+#c:milk
+- milk:flowing_milk? (from Milk Lib)
+- milk:still_milk? (from Milk Lib)
+
+#c:tea
+- create:flowing_tea (from Create)
+- create:tea (from Create)
+
+#sliceanddice:moisturizing
+- minecraft:water (from Create Slice & Dice)
+
+#c:water
+- #minecraft:water? (from Quilted Fabric Convention Tags API (v1))
+
+#c:lava
+- #minecraft:lava? (from Quilted Fabric Convention Tags API (v1))
+
+#minecraft:lava
+- minecraft:lava (from Default)
+- minecraft:flowing_lava (from Default)
+- estrogen:molten_slime (from Estrogen)
+- estrogen:flowing_molten_slime (from Estrogen)
+
+#create:diving_fluids
+- #minecraft:water (from Create)
+
+#sliceanddice:fertilizer
+- sliceanddice:flowing_fertilizer (from Create Slice & Dice)
+- sliceanddice:fertilizer (from Create Slice & Dice)
+
+#create:bottomless/deny
+
+#c:honey
+- create:flowing_honey (from Create)
+- create:honey (from Create)
+
+#create:bottomless/allow
+- minecraft:water (from Create)
+- minecraft:lava (from Create)
+
+#c:chocolate
+- create:flowing_chocolate (from Create)
+- create:chocolate (from Create)
+
+#sliceanddice:burning
+- minecraft:lava (from Create Slice & Dice)

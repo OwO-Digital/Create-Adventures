@@ -1,18 +1,17 @@
 name = "ProbeJS"
-filename = "probejs-4.8.0-fabric.jar"
+filename = "probejs-5.3.0-fabric-hotfix.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "26ece6516111e9fa1522180467155beb0325cc28"
+hash = "e2604d796731ad29803e4782205e5f30531a4c23"
 mode = "metadata:curseforge"
-
-[option]
-optional = true
-default = false
-description = "Development library for KubeJS (Don't install this unless you know what you're doing)"
 
 [update]
 [update.curseforge]
-file-id = 4546436
+file-id = 4658183
 project-id = 585406
+
+[option]
+optional = true
+description = "Development library for KubeJS (Don't install this unless you know what you're doing)"
